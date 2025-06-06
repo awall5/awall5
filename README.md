@@ -25,8 +25,7 @@
 ### 🧰 Tech Stack:
 ![Languages](https://skillicons.dev/icons?i=python,java,cpp,js,html,css)
 ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)
-![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)
-![Tools](https://skillicons.dev/icons?i=git,docker,vscode,postman,figma)
+![Cloud](https://skillicons.dev/icons?i=aws,azure)
 
 ---
 
