@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 I’m currently working on **AI Safety Log API** and **Fitness & Workout Planner Web App**
 - 🌱 I’m learning **Data Structures & Algorithms with C++**, **DevOps**, and **Azure**
 - 👯 I’m open to collaborate on **open source**, **tech communities**, and **freelance projects**
 - 💬 Ask me about **Python, Java, MERN Stack, C++, AWS, and Azure**
