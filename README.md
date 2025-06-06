@@ -19,7 +19,7 @@
 |----------------|----------------|
 | [**GoFood**](https://github.com/awall5/GoFood) | A MERN stack food ordering platform with secure login, real-time order tracking & responsive UI |
 | [**Weather App**](https://github.com/awall5/Weather-App) | Weather forecasting app with voice search & dynamic background based on weather |
-| [**Backup **] | You can transfer your files to azure by Python |
+| [**Backup**] | You can transfer your files to azure by Python |
 ---
 
 ### 🧰 Tech Stack:
