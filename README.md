@@ -7,7 +7,7 @@
 - 👯 I’m open to collaborate on **open source**, **tech communities**, and **freelance projects**
 - 💬 Ask me about **Python, Java, MERN Stack, C++, AWS, and Azure**
 - 📫 Reach me at: **awalmanga25@gmail.com**
-- 📄 Checkout my projects & resume: (https://awals-portfolio.netlify.app/)
+- 📄 Checkout my projects & resume: [**PORTFOLIO**](https://awals-portfolio.netlify.app/)
 - ⚡ Fun fact: *I love Sudoku, swimming, and building real-world projects for fun!*
 
 ---
