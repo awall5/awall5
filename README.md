@@ -15,11 +15,15 @@
 ### 🔥 My Projects:
 
 | 💻 Project Name | 🚀 Description |
-|----------------|----------------|
+|-----------------|----------------|
 | [**GoFood**](https://github.com/awall5/GoFood) | A MERN stack food ordering platform with secure login, real-time order tracking & responsive UI |
-| [**Weather App**](https://github.com/awall5/Weather-App) | Weather forecasting app with voice search & dynamic background based on weather |
-| [**Backup**](https://github.com/awall5/Azure-Backup) | You can transfer your files to azure by Python |
-| [**TrainReservation**](https://github.com/awall5/Train-Reservation) | Developed a C++ Train Reservation System to book, cancel, and manage tickets with real-time seat availability updates.|
+| [**Weather App**](https://github.com/awall5/Weather-App) | React-based weather forecasting app with **voice search** & **dynamic background** |
+| [**Auto Backup to Azure Blob**](https://github.com/awall5/Azure-Backup) | Automates file backup to **Azure Blob Storage** using **Python & Azure SDK** |
+| [**Train Reservation System**](https://github.com/awall5/Train-Reservation) | C++ console-based train reservation system with booking, cancelation & seat availability features |
+| [**Lovely Restaurant Website**](https://github.com/awall5/Lovely-Restaurant) | Static website built using **HTML & CSS** showcasing restaurant menu & UI |
+| [**Blood Donation System**](https://blooddonationfrontend-three.vercel.app/) | A platform to **connect donors and recipients**, manage donor records & requests |
+| [**AI Chatbot**](https://github.com/awall5/chatbot) | An intelligent chatbot built with **AI/ML & NLP** for answering queries |
+
 ---
 
 ### 🧰 Tech Stack:
@@ -42,8 +46,3 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/awalmanga/)
-
----
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=awall5)
